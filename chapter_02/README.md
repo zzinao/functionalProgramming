@@ -7,3 +7,5 @@
 - 김지나 - [계층화 설계와 일급추상](https://ripe-curio-e9a.notion.site/chap2-d3c4d78d18ce45f98e2a208c04233225?pvs=4)
 - 문수정 - [글제목](링크)
 - 우신애 - [쏙쏙 들어오는 함수형 코딩 CHAPTER2](https://velog.io/@wooshinae/%EC%8F%99%EC%8F%99-%EB%93%A4%EC%96%B4%EC%98%A4%EB%8A%94-%ED%95%A8%EC%88%98%ED%98%95%EC%BD%94%EB%94%A9-CHAPTER2)
+- 김도영 - [글제목](링크)
+- 이예서 - [글제목](링크)
