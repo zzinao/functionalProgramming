@@ -1,6 +1,6 @@
 # [Chapter 3] 액션과 계산, 데이터의 차이를 알기
 
-- 최기환 - [글제목](링크)
+- 최기환 - [액션과 계산, 데이터의 차이를 알기](https://circular-error-a3d.notion.site/605ed11e10a242b785c4c2af9c5d5bb6?pvs=4)
 - 문선주 - [글제목](링크)
 - 이정아 - [글제목](링크)
 - 김지나 - [액션과 계산, 데이터 직접 적용해보기](https://ripe-curio-e9a.notion.site/chap3-8ebfdd03259c4add9f6cb5ca602ad09e?pvs=4)
