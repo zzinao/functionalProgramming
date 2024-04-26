@@ -5,7 +5,7 @@
 - 이정아 - [글제목](링크)
 - 김지나 - [액션과 계산, 데이터 직접 적용해보기](https://ripe-curio-e9a.notion.site/chap3-8ebfdd03259c4add9f6cb5ca602ad09e?pvs=4)
 - 강수영 - [[북스터디] 쏙쏙들어오는 함수형코딩 Chapter.3 - 액션, 계산, 데이터](https://velog.io/@sooyoung15928/%EB%B6%81%EC%8A%A4%ED%84%B0%EB%94%94-%EC%8F%99%EC%8F%99%EB%93%A4%EC%96%B4%EC%98%A4%EB%8A%94-%ED%95%A8%EC%88%98%ED%98%95%EC%BD%94%EB%94%A9-Chapter.3-%EC%95%A1%EC%85%98-%EA%B3%84%EC%82%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0)
-- 문수정 - [글제목](링크)
+- 문수정 - [chapter3](https://velog.io/@coffeeeee/chapter3)
 - 우신애 - [글제목](링크)
 - 김도영 - [글제목](링크)
 - 이예서 - [글제목](링크)
