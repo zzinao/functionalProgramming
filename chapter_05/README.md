@@ -1,7 +1,7 @@
 # [Chapter 5] 더 좋은 액션 만들기
 
 - 최기환 - [글제목](링크)
-- 문선주 - [[북스터디] 쏙쏙 들어오는 함수형 코딩 Ch.2](https://moonsun-blog.vercel.app/function-5)
+- 문선주 - [[북스터디] 쏙쏙 들어오는 함수형 코딩 Ch.5](https://moonsun-blog.vercel.app/function-5)
 - 이정아 - [글제목](링크)
 - 강수영 - [글제목](링크)
 - 김지나 - [글제목](링크)
