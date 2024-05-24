@@ -1,6 +1,6 @@
 # [Chapter 7] 신뢰할 수 없는 코드를 쓰면서 불변성 지키기
 
-- 최기환 - [글제목](링크)
+- 최기환 - [신뢰할 수 없는 코드를 쓰면서 불변성 지키기](https://www.blog.gihwan-dev.com/posts/bookSailor-fp-chapter7/)
 - 문선주 - [글제목](링크)
 - 이정아 - [글제목](링크)
 - 김지나 - [신뢰할 수 없는 데이터에서 불변성 유지하기](https://zzinao.notion.site/chap7-8b69b6226b3242d38b751bbb1b13ac39?pvs=4)
