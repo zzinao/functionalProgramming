@@ -1,6 +1,6 @@
 # [Chapter 8] 계층형 설계 1
 
-- 최기환 - [글제목](링크)
+- 최기환 - [계층형 설계 1](https://www.blog.gihwan-dev.com/posts/bookSailor-fp-chapter8/)
 - 문선주 - [글제목](링크)
 - 이정아 - [글제목](링크)
 - 강수영 - [글제목](링크)
