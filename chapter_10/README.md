@@ -1,6 +1,6 @@
 # [Chapter 10] 일급 함수 1
 
-- 최기환 - [글제목](링크)
+- 최기환 - [일급함수 1](https://www.blog.gihwan-dev.com/posts/bookSailor-fp-chapter10/)
 - 문선주 - [글제목](링크)
 - 이정아 - [글제목](링크)
 - 강수영 - [글제목](링크)
