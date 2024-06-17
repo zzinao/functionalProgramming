@@ -6,8 +6,8 @@
 
 ## ING
 
-- deadLine: 2024년 06월 14일 금요일 자정
-- todo: chapter10
+- deadLine: 2024년 06월 21일 금요일 자정
+- todo: chapter11
 
 ---
 
