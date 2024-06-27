@@ -1,6 +1,6 @@
 # [Chapter 12] 함수형 반복
 
-- 최기환 - [글제목](링크)
+- 최기환 - [함수형 반복](https://www.blog.gihwan-dev.com/posts/bookSailor-fp-chapter12/)
 - 문선주 - [글제목](링크)
 - 이정아 - [글제목](링크)
 - 강수영 - [글제목](링크)
