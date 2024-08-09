@@ -1,6 +1,6 @@
 # [Chapter 17] 타임라인 조율하기
 
-- 최기환 - [글제목](링크)
+- 최기환 - [타임라인 조율하기](https://www.blog.gihwan-dev.com/posts/bookSailor-fp-chapter17/)
 - 문선주 - [글제목](링크)
 - 이정아 - [글제목](링크)
 - 강수영 - [글제목](링크)
