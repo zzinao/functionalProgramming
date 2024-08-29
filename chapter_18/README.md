@@ -1,6 +1,6 @@
 # [Chapter 18] 반응형 아키텍처와 어니언 아키텍처
 
-- 최기환 - [글제목](링크)
+- 최기환 - [반응형 아키텍처와 어니언 아키텍처](https://www.blog.gihwan-dev.com/posts/bookSailor-fp-chapter18/)
 - 문선주 - [글제목](링크)
 - 이정아 - [글제목](링크)
 - 김지나 - [반응형 아키텍처와 어니언 아키텍처](https://zzinao.notion.site/chap-18-807e6b58f52941b8908fd87910f404f5?pvs=4)
